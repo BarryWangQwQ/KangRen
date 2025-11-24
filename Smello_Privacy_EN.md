@@ -6,7 +6,7 @@ Smello is committed to meeting all App Store Review Guidelines, especially Secti
 
 ---
 
-# 1. Summary of Data Collection (Required by App Store)
+# 1. Summary of Data Collection
 
 Smello does **NOT**:
 - Collect personal identifiable information (PII)
@@ -44,7 +44,7 @@ Used strictly for improving app stability.
 
 ---
 
-# 3. Permission Usage (App Store Focus)
+# 3. Permission Usage
 
 | Permission | Purpose | Required | Data uploaded? |
 |------------|----------|----------|----------------|
