@@ -1,4 +1,4 @@
-# Smello Privacy Policy (App Store Review Optimized Version)
+# Smello Privacy Policy
 
 **Last Updated: 2025-01-01**
 
